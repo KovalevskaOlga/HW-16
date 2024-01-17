@@ -1,0 +1,10 @@
+.bg-box {
+  width: 900px;
+  height: 500px;
+  background-color: green;
+  background-image: url(../img/grass.png), url(../img/lamp.png),
+    url(../img/animal.webp), url(../img/donut.png), url(../img/house.png);
+  background-repeat: repeat-x, repeat-x, repeat-y, repeat-y, no-repeat;
+  background-size: 185px 185px, 40px 60px, 30px 30px, 30px 30px, 450px 300px;
+  background-position: 30px 315px, 30px 0px, 0px, 870px, 240px;
+}
